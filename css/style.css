@@ -1,4 +1,11 @@
 
+.menu{
+	display: flex;
+
+}
+.customizeMenu{
+	font-size: 100px;
+
 
 .secondrowcard{
 	display: flex;
